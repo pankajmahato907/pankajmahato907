@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, JavaScript and Java**
 
-- 👯 I’m had completed a project on [Weather App](https://github.com/pankajmahato907/Weather_App_Complete_Version)
+- 👯 I’m had completed a project on [Weather App](http://pankusingh143.42web.io/?i=1)
 
 - 🤝 I’m had completed a project [Trip-Nepal](https://pankajmahato907.github.io/Trip-Nepal-Website/)
 
