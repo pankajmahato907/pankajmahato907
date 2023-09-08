@@ -1,3 +1,4 @@
+![logo](https://github.com/pankajmahato907/pankajmahato907/blob/9054e3383278294d403b5082eafaa51407c69e2d/panku%20gif.gif)
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Mahato</h1>
 <br>
 <h3 align="center">A passionate frontend developer from Nepal (Janakpurdham)</h3>
