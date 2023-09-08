@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Mahato</h1>
 <br>
-<br>
 <h3 align="center">A passionate frontend developer from Nepal (Janakpurdham)</h3>
-<br>
 <br>
 
 - 🔭 I’m currently Studying in 2nd Year **at Herald College Kathmandu**
 
 - 🌱 I’m currently learning **Python, JavaScript and Java**
 
-- 👯 I’m looking to collaborate on [Weather App](https://github.com/pankajmahato907/Weather_App_Complete_Version)
+- 👯 I’m had completed a project on [Weather App](https://github.com/pankajmahato907/Weather_App_Complete_Version)
 
 - 🤝 I’m had completed a project [Trip-Nepal](https://pankajmahato907.github.io/Trip-Nepal-Website/)
 
