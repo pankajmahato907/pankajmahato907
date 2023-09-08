@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Mahato</h1>
+<br>
 <h3 align="center">A passionate frontend developer from Nepal (Janakpurdham)</h3>
 
 - 🔭 I’m currently Studying in 2nd Year **at Herald College Kathmandu**
@@ -10,7 +11,7 @@
 - 🤝 I’m had completed a project [Trip-Nepal](https://pankajmahato907.github.io/Trip-Nepal-Website/)
 
 <h3 align="left">Connect with me:</h3>
-<img align ="right" alt ="Hacker" width="400" src="https://i.gifer.com/24Br.mp4">
+<img align ="right" alt ="Hacker" width="400" src="https://media.tenor.com/2gfRHLv6GZ8AAAAd/code-coding.gif">
 <p align="left">
 <a href="https://linkedin.com/in/pankaj mahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj mahato" height="30" width="40" /></a>
 <a href="https://fb.com/pankaj mahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pankaj mahato" height="30" width="40" /></a>
